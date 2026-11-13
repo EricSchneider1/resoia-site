@@ -18,4 +18,4 @@ Ouvrir `index.html` dans un navigateur.
 
 - Valider les fourchettes de prix après entretiens dirigeants.
 - Vérifier le nom ResoIA à l'INPI.
-- Relier le nom de domaine (acheté chez OVH) à GitHub Pages.
+- Relier resoia.com (OVH) à GitHub Pages : enregistrements DNS chez OVH, puis HTTPS dans les réglages Pages.
