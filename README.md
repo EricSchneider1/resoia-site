@@ -16,6 +16,6 @@ Ouvrir `index.html` dans un navigateur.
 
 ## À faire avant mise en ligne
 
-- Compléter les mentions légales (société, hébergeur, adresse de contact).
 - Valider les fourchettes de prix après entretiens dirigeants.
-- Vérifier le nom ResoIA à l'INPI et réserver le nom de domaine.
+- Vérifier le nom ResoIA à l'INPI.
+- Relier le nom de domaine (acheté chez OVH) à GitHub Pages.
