@@ -2,7 +2,7 @@
 
 Site de ResoIA : gouvernance et usage de l'IA pour les PME têtes de réseau (franchise, licence de marque, succursales).
 
-Une page, `index.html`, et la police IBM Plex Sans hébergée dans `fonts/` (aucun appel à Google Fonts). Les vues (accueil, offres, constat, contact, mentions) s'affichent selon l'ancre de l'adresse (`#offres`, `#contact`…). Publié par GitHub Pages depuis la branche `main`.
+Une page, `index.html`, et la police IBM Plex Sans hébergée dans `fonts/` (aucun appel à Google Fonts). Les vues (accueil, offres, constat, contact, mentions) s'affichent selon l'ancre de l'adresse (`#offres`, `#contact`…). Publié sur https://resoia.com par GitHub Pages depuis la branche `main` (domaine chez OVH, fichier `CNAME`).
 
 ## Formulaire de contact
 
@@ -18,4 +18,3 @@ Ouvrir `index.html` dans un navigateur.
 
 - Valider les fourchettes de prix après entretiens dirigeants.
 - Vérifier le nom ResoIA à l'INPI.
-- Relier resoia.com (OVH) à GitHub Pages : enregistrements DNS chez OVH, puis HTTPS dans les réglages Pages.
